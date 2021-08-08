@@ -1,0 +1,9 @@
+Strings
+
+String = texto;
+
+console.log(typeof 'isso é uma String');
+
+console.log(typeof "Este texto aqui também");
+
+console.log(typeof `E este também`); (template literals = entre crases `...`)

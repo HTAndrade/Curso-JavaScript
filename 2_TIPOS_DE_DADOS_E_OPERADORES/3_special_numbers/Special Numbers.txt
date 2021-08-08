@@ -1,0 +1,9 @@
+Special Numbers
+
+Considerados numeros, mas não funcionam como numeros;
+
+Infinity;
+
+-Infinity;
+
+NaN(Not a Number);

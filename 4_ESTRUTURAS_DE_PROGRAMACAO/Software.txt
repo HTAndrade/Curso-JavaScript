@@ -1,0 +1,23 @@
+O que é um programa/software?
+
+É um conjunto de declarações(statements);
+
+Statemantes são conjuntos de expressões(expressions);
+
+Expression é todo fragmento de código que produz um valor;
+
+Sftware tem um 'objetivo';
+
+Statements 'guiam' o software para seu objetivo;
+
+Expressions são os valores que os statements esperam para guiar o software;
+
+Nós já vimos statements e expressions de forma simples;
+
+Statements: console.log(1 > 2);
+
+Expression: console.log('batata');
+
+Porém ainda não pe o suficiente para criar um software;
+
+E é essa junção dos conceitos nosso objetivo nesta seção;

@@ -1,0 +1,12 @@
+O que são tipos de dados?
+
+.A classificação/categoria de um dado;
+
+.Dados são: 13, 'olá', True/False;
+
+.Os tipos de dados existentes são:
+
+Number (Aritmetico, Special Numbers);
+String;
+Boolean (Comparações, operadores logicos);
+Empty values (null, undefined);

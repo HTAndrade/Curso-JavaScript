@@ -1,0 +1,21 @@
+Numbers: aritmetica
+
+Operação mais feita com os números em JS;
+
+E o resultado da operação aritmetica produz um novo Number;
+
+Console.log(2 + 2);
+
+Console.log(2 * 4 - 3);
+
+Console.log(8 / 4);
+
+Funciona com a mesma da matematica
+
+Console.log(5 + (2 * 4));
+
++ -> soma;
+- -> subtração;
+/ -> divisão;
+* -> multiplicação;
+% -> resto;

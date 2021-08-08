@@ -1,0 +1,9 @@
+Onde JavaScript é utilizada? - Front e Back end
+
+.Interagir com HTML CSS(DOM);
+
+.Calcular, manipular e validar dados;
+
+.Pode ser utilizada como linguagem server-side(Node.js);
+
+.Linguagem base de grandes frameworks (React, Angular, Vue);

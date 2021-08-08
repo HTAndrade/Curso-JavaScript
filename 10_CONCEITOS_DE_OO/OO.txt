@@ -1,0 +1,9 @@
+Orientação a objetos
+
+Uma forma de programar, que utilia os objetos como o seu principal principio;
+
+Alem de utilizar conceitos e tecnicas que envolem objetos;
+
+A maioria dos software, na parte de back-end, são desenvolvidos em cima desse paradigma;
+
+Grandes frameworks se aproveitam desta tecnica: Laravel, Django e etc.
