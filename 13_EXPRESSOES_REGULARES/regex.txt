@@ -1,0 +1,10 @@
+Expressões regulares
+
+Uma forma de encontrar padrões em uma string;
+
+Por exemplo: validar se só tem numeros;
+
+Em vez de criarmos funções complexas, podemos 
+encontrar dados em texto por meio de expressões regulares;
+
+Também chamadas de regex

@@ -1,0 +1,11 @@
+Programação assincronar
+
+Até agora programamos de uma maneira que uma ação acontecia
+após a outra;
+
+A programação assincrona trabalha nesta questão, ações podem
+ser executadas ao tempo todo sem uma 'fila';
+
+Exemplo: usuario está no checkout, manda salvar seu Endereço
+na conta, mas pode prosseguir para a finalização sem recarregar
+a pagina, pois adicionar endereço ocorre de forma assincrona;

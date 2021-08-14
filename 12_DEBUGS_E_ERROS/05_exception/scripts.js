@@ -6,7 +6,7 @@ function saudacao(nome) {
   }
 }
 
-saudacao("Matheus");
+saudacao("Hugo");
 saudacao(5);
 
 console.log("teste");
